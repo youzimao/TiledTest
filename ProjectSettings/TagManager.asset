@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - wall
+  - mirror
+  - fireball
+  - trigger
+  - switch
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - ground
+  - player
+  - moon
+  - NPC
+  - prop
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: ground
+    uniqueID: 1841875009
+    locked: 0
+  - name: player
+    uniqueID: 3861508573
+    locked: 0
+  - name: moon
+    uniqueID: 653541507
+    locked: 0
+  - name: ui
+    uniqueID: 4028640191
+    locked: 0
